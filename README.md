@@ -7,13 +7,6 @@
 <h3 align=center>A simple bot with a config built with <a href=https://github.com/Rapptz/discord.py>discord.py</a></h3>
 
 
-<div align=center>
-
- [![Discord](https://img.shields.io/discord/846477095760429067.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5xN3KAr7MS)
-
-
-</div>
-
 <p align="center">
   <a href="#about">About</a>
   •
